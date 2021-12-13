@@ -11,6 +11,7 @@
 		9CCF882427677B1100DF9673 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CCF882327677B1100DF9673 /* ContentView.swift */; };
 		9CCF882627677B1C00DF9673 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9CCF882527677B1C00DF9673 /* Assets.xcassets */; };
 		9CCF882927677B1C00DF9673 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9CCF882827677B1C00DF9673 /* Preview Assets.xcassets */; };
+		9CCF883027677D7F00DF9673 /* MyButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CCF882F27677D7F00DF9673 /* MyButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		9CCF882327677B1100DF9673 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		9CCF882527677B1C00DF9673 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9CCF882827677B1C00DF9673 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		9CCF882F27677D7F00DF9673 /* MyButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				9CCF882127677B1100DF9673 /* Calculatrice_Avec_NSApp.swift */,
 				9CCF882327677B1100DF9673 /* ContentView.swift */,
+				9CCF882F27677D7F00DF9673 /* MyButton.swift */,
 				9CCF882527677B1C00DF9673 /* Assets.xcassets */,
 				9CCF882727677B1C00DF9673 /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				9CCF882427677B1100DF9673 /* ContentView.swift in Sources */,
+				9CCF883027677D7F00DF9673 /* MyButton.swift in Sources */,
 				9CCF882227677B1100DF9673 /* Calculatrice_Avec_NSApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
